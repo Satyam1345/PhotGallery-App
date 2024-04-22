@@ -1,0 +1,27 @@
+.navbar{
+    /* margin-top: 0; */
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    color: blueviolet;
+    background-color: rgb(180, 108, 247);
+
+  }
+  body{
+    color : blue ;
+  }
+
+  .heading{
+    color: rgb(132, 0, 255);
+    font-weight: 700;
+    font-size: 24px;
+  }
+  
+  .btn{
+    color: black;
+    font-weight: 800;
+  }
+  .btn:hover{
+    color: rgb(89, 87, 87);
+  }

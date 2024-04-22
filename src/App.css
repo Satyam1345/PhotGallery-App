@@ -1,0 +1,21 @@
+.nav{
+  /* margin-top: 0; */
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  color: blueviolet;
+}
+body{
+  color : blue ;
+}
+
+.des{
+  color: rgb(67, 1, 128);
+  font-size: 60px;
+  height: 65px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 2rem;
+}
